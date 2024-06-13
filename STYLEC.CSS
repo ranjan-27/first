@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: fixed;
+}
+
+body {
+    background-image: url(https://c0.wallpaperflare.com/preview/534/41/125/school-books-young-adult-education.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+   
+}
+H2{
+    padding-left: 100PX;
+    padding-top: 150PX;
+    font-style: normal;
+    color: rgb(179, 13, 234);
+    font-size: x-large;
+}
